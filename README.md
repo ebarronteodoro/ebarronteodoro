@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Esteban Barrón
 
-![Developer](https://img.shields.io/badge/Full%20Stack-Developer-blue.svg) ![React](https://img.shields.io/badge/React-blue.svg)
+![Developer](https://img.shields.io/badge/Full%20Stack-Developer-blue.svg)
 
 ## 🚀 Sobre mí
 💻 Soy un desarrollador **Full Stack** especializado en **React y NestJS**, con pasión por crear aplicaciones web dinámicas, optimizadas y escalables. Siempre busco mejorar la experiencia del usuario y aplicar las mejores prácticas en desarrollo.
